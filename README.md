@@ -3,9 +3,10 @@
 Real-time Kaspa wallet monitoring and portfolio insights across multiple addresses.
 
 ## Quick Links
-- Live app: https://www.kasobs.app
+- Live app: https://kasobs.app
+- Live app (alt): https://www.kasobs.app
 - Demo video: https://www.youtube.com/shorts/qR-7dPZchRc
-- Chrome Web Store: https://chromewebstore.google.com/detail/hnhhgcggnahdcjgngkpojdoijabodfgb?utm_source=item-share-cp
+- Chrome Web Store: https://chromewebstore.google.com/detail/kaspa-observer/hnhhgcggnahdcjgngkpojdoijabodfgb
 - iOS TestFlight beta: https://testflight.apple.com/join/vh51VTmD
 - GitHub repo: https://github.com/karavanov/kaspa-observer-kaspathon
 - Discord invite: https://discord.gg/QA5jTrWD
