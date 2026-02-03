@@ -5,11 +5,10 @@ Real-time Kaspa wallet monitoring and portfolio insights across multiple address
 ## Quick Links
 - Live app: https://kasobs.app
 - Live app (alt): https://www.kasobs.app
-- Demo video: https://youtube.com/shorts/qR-7dPZchRc?feature=share
+- Demo video: https://www.youtube.com/shorts/qR-7dPZchRc
 - Chrome Web Store: https://chromewebstore.google.com/detail/hnhhgcggnahdcjgngkpojdoijabodfgb?utm_source=item-share-cp
 - iOS TestFlight beta: https://testflight.apple.com/join/vh51VTmD
 - GitHub repo: https://github.com/karavanov/kaspa-observer-kaspathon
-- YouTube channel: https://youtube.com/@step2tep?si=A0t3m_i66BeME6aa
 - Discord invite: https://discord.gg/QA5jTrWD
 - DoraHacks BUIDL page: https://dorahacks.io/hackathon/kaspathon/buidl
 
@@ -165,7 +164,7 @@ Edit `lib/config/app_globals.dart` to adjust:
 - Project name: Kaspa Observer
 - Track: TBD
 - Repo: https://github.com/karavanov/kaspa-observer-front
-- Demo video: https://youtube.com/shorts/qR-7dPZchRc?feature=share
+- Demo video: https://www.youtube.com/shorts/qR-7dPZchRc
 - Team: Solo (end-to-end)
 - Submission date: 2026-01-31
 
