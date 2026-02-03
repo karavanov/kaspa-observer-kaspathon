@@ -1,4 +1,4 @@
-# Kaspa Observer (Kasobs)
+# Kaspa Observer
 
 <p align="center">
   <img src="logo-high-res.png" alt="Kaspa Observer" width="360">
