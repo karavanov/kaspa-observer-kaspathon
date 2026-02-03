@@ -13,7 +13,6 @@ Real-time Kaspa portfolio dashboard for tracking multiple addresses, tokens, NFT
 - iOS TestFlight beta: https://testflight.apple.com/join/vh51VTmD
 - GitHub repo: https://github.com/karavanov/kaspa-observer-kaspathon
 - Discord: https://discord.gg/QA5jTrWD
-- DoraHacks BUIDL: https://dorahacks.io/hackathon/kaspathon/buidl
 
 ## Summary
 Kaspa Observer helps users monitor multiple wallets and notable addresses without bouncing between explorers. It combines live balance changes with KRC-20 tokens, KRC-721 media, and KNS domains, plus grouping, sorting, and history.
