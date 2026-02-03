@@ -1,7 +1,7 @@
 # Kaspa Observer (Kasobs)
 
 <p align="center">
-  <img src="assets/logo/logo-high-res.png" alt="Kaspa Observer" width="360">
+  <img src="logo-high-res.png" alt="Kaspa Observer" width="360">
 </p>
 
 Real-time Kaspa portfolio dashboard for tracking multiple addresses, tokens, NFTs, and domains in one place.
