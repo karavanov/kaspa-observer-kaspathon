@@ -15,7 +15,7 @@ It allows users to track multiple wallets and notable addresses in one place, st
 - **Live Web App:** https://www.kasobs.app  
 - **Demo Video:** https://www.youtube.com/shorts/qR-7dPZchRc  
 - **Chrome Web Store:** https://chromewebstore.google.com/detail/kaspa-observer/hnhhgcggnahdcjgngkpojdoijabodfgb  
-- **iOS AppStore** https://apps.apple.com/app/kaspa-observer/id6749205046
+- **iOS AppStore:** https://apps.apple.com/app/kaspa-observer/id6749205046
 - **GitHub Repo:** https://github.com/karavanov/kaspa-observer-kaspathon  
 - **Discord:** https://discord.gg/QA5jTrWD  
 
