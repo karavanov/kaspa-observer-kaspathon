@@ -6,7 +6,7 @@
 
 **Kaspa Observer** is a real-time, read-only, non-custodial portfolio dashboard for the Kaspa ecosystem — **your pocket observer for Kaspa addresses**.
 
-It allows users to track multiple wallets and notable addresses in one place, delivering instant balance changes alongside KRC-20 tokens, KRC-721 NFTs, and KNS domains — without custody, signing, or transaction capabilities.
+It allows users to track multiple wallets and notable addresses in one place, streaming live KAS balances and market price updates as they happen on-chain — alongside KRC-20 tokens, KRC-721 NFTs, and KNS domains — without custody, signing, or transaction capabilities.
 
 ---
 
@@ -15,7 +15,7 @@ It allows users to track multiple wallets and notable addresses in one place, de
 - **Live Web App:** https://www.kasobs.app  
 - **Demo Video:** https://www.youtube.com/shorts/qR-7dPZchRc  
 - **Chrome Web Store:** https://chromewebstore.google.com/detail/kaspa-observer/hnhhgcggnahdcjgngkpojdoijabodfgb  
-- **iOS TestFlight (beta):** https://testflight.apple.com/join/vh51VTmD  
+- **iOS AppStore** https://apps.apple.com/app/kaspa-observer/id6749205046
 - **GitHub Repo:** https://github.com/karavanov/kaspa-observer-kaspathon  
 - **Discord:** https://discord.gg/QA5jTrWD  
 
@@ -25,7 +25,7 @@ It allows users to track multiple wallets and notable addresses in one place, de
 
 Kaspa Observer helps users monitor multiple Kaspa wallets and public addresses without bouncing between block explorers.
 
-Designed as a **pocket observer**, it combines real-time balance updates, rich asset context, and offline resilience into a single, clean portfolio-style interface — focused purely on observation and insight.
+Designed as a **pocket observer**, it combines live KAS balance streaming, real-time market price updates, rich asset context, and offline resilience into a single, clean portfolio-style interface — focused purely on observation and insight.
 
 The app is **read-only and non-custodial by design**:
 - no private keys
@@ -36,6 +36,18 @@ The app is **read-only and non-custodial by design**:
 All data is retrieved from public blockchain infrastructure and backend APIs.
 
 ---
+
+🌐 Cross-Platform & Responsive Design
+
+Built with a scalable, responsive architecture, Kaspa Observer adapts seamlessly to any screen — from compact mobile devices to wide desktop layouts.
+
+A single Flutter codebase powers:
+- Web application
+- Chrome extension
+- iOS and Android apps
+- Desktop builds (macOS, Windows, Linux)
+
+The real-time experience remains consistent across all platforms.
 
 ## ✨ Features
 
@@ -91,7 +103,7 @@ The codebase is structured for scalability and cross-platform reuse.
 - **Flutter (Dart)**  
 - **Provider** (state management)  
 - **Hive** (local cache)  
-- **WebSocket + REST APIs**  
+- **WebSocket streaming with REST fallback**  
 - **Kaspa / Kasplex / KNS APIs**  
 
 ---
@@ -115,6 +127,6 @@ This design minimizes risk and makes Kaspa Observer suitable for monitoring pers
 
 ---
 
-## 📌 About
+📌 About
 
-Kaspa Observer provides real-time visibility into the Kaspa network through a clean, portfolio-style interface — combining live data, offline resilience, and rich on-chain context in a single observer-focused experience.
+Built with genuine respect for Kaspa’s BlockDAG architecture and the real-time capabilities it enables.
