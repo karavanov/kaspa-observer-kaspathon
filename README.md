@@ -62,6 +62,7 @@ Core principles:
 
 - Multi-address watchlists with grouping, filtering, and sorting
 - Real-time KAS balance updates (WebSocket) with REST fallback
+- Real-time KAS price feed sourced from CoinGecko and delivered via WebSocket
 - Offline-aware behavior with cached balances/history/settings
 - KRC-20 token tracking with metadata
 - KRC-721 NFT media and gallery support
@@ -140,7 +141,7 @@ Kaspa Observer communicates with these backend/API blocks:
 - KRC-20 API service for token balances and metadata
 - KRC-721 API service for NFT ownership and metadata/media
 - KNS API service for domains, profiles, and primary-name resolution
-- Price feed service for chart/range data
+- Price feed service (CoinGecko source) for chart/range data, delivered in real time via WebSocket
 - Feedback worker for user feedback delivery
 - Optional analytics provider (user-controlled)
 
