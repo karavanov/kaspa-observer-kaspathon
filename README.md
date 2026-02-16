@@ -1,8 +1,9 @@
 # Kaspa Observer 𐤊
 
 <p align="center">
-  <img src="../assets/logo/logo-high-res.png" alt="Kaspa Observer" width="360">
+  <img src="logo-high-res.png" alt="Kaspa Observer" width="360">
 </p>
+
 
 Kaspa Observer is a real-time, read-only, non-custodial dashboard for the Kaspa ecosystem.
 
